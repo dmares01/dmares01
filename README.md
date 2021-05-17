@@ -1,6 +1,6 @@
 
 ## Welcome to my Github 👋
-- 🔭 Right now I am working on a number of internal tools to be used at Datasite
+- 🔭 Right now I am enhancing a number of internal tools to be used at Datasite
 - 🌱 I’m currently working on expanding my understanding of Python and becoming an expert at MongoDB.  
 - 💞️ I’m looking to collaborate on any open-source project. I haven't started yet, but now that life has calmed down I plan on finding a project or two and working on it in my spare time
 
@@ -11,7 +11,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 </p>
 
 ## Github Stats
