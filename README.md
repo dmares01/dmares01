@@ -20,9 +20,14 @@
 />
 
 ## Contact
-<a href="https://twitter.com/droomares">
-  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FDrooMares">
+<a href="https://www.linkedin.com/in/drew-mares/" target="_blank">
+  <img alt="LinkedIn URL" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=plastic" />
 </a>
+<a href="https://twitter.com/droomares" target="_blank">
+  <img alt="Twitter URL" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=plastic">
+</a>
+
+
 <!---
 dmares01/dmares01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
