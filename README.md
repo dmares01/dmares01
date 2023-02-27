@@ -20,6 +20,7 @@
 <img
   src="https://github-readme-stats.vercel.app/api?username=dmares01&count_private=true&title_color=47A248&icon_color=47A248&text_color=0C2233&custom_title=Drew+Mares'+Github+Stats&show_icons=true"
 />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmares01&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 <a href="https://www.linkedin.com/in/drew-mares/" target="_blank">
