@@ -1,4 +1,5 @@
 
+![](https://komarev.com/ghpvc/?username=dmares01)
 ## Welcome to my Github 👋
 - 🔭 Right now I am enhancing a number of internal tools to be used at Datasite
 - 🌱 I’m currently working on expanding my understanding of Python and becoming an expert at MongoDB.  
