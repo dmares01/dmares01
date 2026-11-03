@@ -18,10 +18,9 @@
 
 ## Github Stats
 Unfortunately this does not show the majority of my commits which are in private organization repos. Although still a good glimpse these don't show my recent work with Python or Kotlin that I have done
-<img
-  src="https://github-stats-extended.vercel.app/api?username=dmares01&count_private=true&title_color=47A248&icon_color=47A248&text_color=0C2233&custom_title=Drew+Mares'+Github+Stats&show_icons=true"
-/>
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=dmares01&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
 
 ## Contact
 <a href="https://www.linkedin.com/in/drew-mares/" target="_blank">
