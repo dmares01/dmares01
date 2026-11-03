@@ -3,7 +3,7 @@
 ## Welcome to my Github 👋
 - 🔭 Right now I am enhancing a number of internal tools to be used at Datasite
 - 🌱 I’m currently working on expanding my understanding of Python and becoming an expert at MongoDB.  
-- 💞️ I’m looking to collaborate on any open-source project. I haven't started yet, but now that life has calmed down I plan on finding a project or two and working on it in my spare time
+- 💞️ I’m looking to collaborate on any open-source project. I actively contribute to Home Assistant Docs when I can but am looking for other projects that need help
 
 ## Tech Stack
 <p>
@@ -17,6 +17,7 @@
 </p>
 
 ## Github Stats
+Unfortunately this does not show the majority of my commits which are in private organization repos. Although still a good glimpse these don't show my recent work with Python or Kotlin that I have done
 <img
   src="https://github-stats-extended.vercel.app/api?username=dmares01&count_private=true&title_color=47A248&icon_color=47A248&text_color=0C2233&custom_title=Drew+Mares'+Github+Stats&show_icons=true"
 />
